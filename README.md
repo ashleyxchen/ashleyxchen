@@ -1,4 +1,4 @@
-# Hello there 👋 I'm Ashley (she/her) ⚙
+# Hello there 🥸 I'm Ashley (she/her) ⚙
 
 🦆 I'm a Biomedical Engineering student at the University of Waterloo
 
