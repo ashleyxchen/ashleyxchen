@@ -1,6 +1,6 @@
 # Hello there 🥸 I'm Ashley (she/her) ⚙
 
-🦆 I'm a Biomedical Engineering student at the University of Waterloo
+🦆 Biomedical Engineering student at the University of Waterloo
 
 
 📝 Exercising and learning new skills/tech through my projects and co-ops
