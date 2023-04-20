@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello there 👋 I'm Ashley (she/her) ⚙
+
+🦆 I'm a Biomedical Engineering student at the University of Waterloo
+
+
+📝 Exercising and learning new skills/tech through my projects and co-ops
+
+
+🌐 Feel free to reach me through [**Linkedin**](https://www.linkedin.com/in/a346chen) or [**ashley.chen@uwaterloo.ca**](mailto:ashley.chen@uwaterloo.ca?subject=Hello%20I%20saw%20your%20GitHub%20and...) if you wanna chat!
 
 <!--
 **ashleyxchen/ashleyxchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
