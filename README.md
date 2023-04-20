@@ -5,6 +5,8 @@
 
 📝 Exercising and learning new skills/tech through my projects and co-ops
 
+💼 SWE W23 @ Toyota Canada Inc | SWE S22 @ Canon Medical
+
 
 🌐 Feel free to reach me through [**Linkedin**](https://www.linkedin.com/in/a346chen) or [**ashley.chen@uwaterloo.ca**](mailto:ashley.chen@uwaterloo.ca?subject=Hello%20I%20saw%20your%20GitHub%20and...) if you wanna chat!
 
